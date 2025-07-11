@@ -1,5 +1,5 @@
 {
-  "name": "@empoleon/floating-ui-solid",
+  "name": "@empoleon/solid-floating-ui",
   "version": "0.0.1",
   "type": "module",
   "main": "./dist/cjs/index.js",
